@@ -25,6 +25,7 @@ My Process:
 
 Game Credits:
 Katsiaryna Aliashkevich- Programming Scripts (TorchController Script, PlayCutScene Script, AreaTrigger Script, CatController Script, Cat Trigger Script); as well as the scripts, functionality, and player mechanics for our original prototype that was rescoped.
+
 Caroline Millet- Production management, Level design, Tile map design and implementation, Narrative design &amp; implementation.
 Doreen Shi- Concept art, Game assets sprites, Cutscene, Tech art.
 Robert Gonzalez- Sound FX, Musical themes, Sound implementation.
