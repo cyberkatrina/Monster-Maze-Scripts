@@ -16,8 +16,11 @@ My Goals for the Project:
 
 My Process:
 1.) I added a spotlight around the torch that gets transferred to be around the player upon torch collection. After the player collects the torch from the wall, the player holds the torch in their hand throughout the level; they’re able to light their way and attack enemies with it.
-2.) I also implemented UI text instructing the player how to attack, “press spacebar”. This text shows right before they reach the first enemy and doesn't show again for the rest of the game. 
+
+2.) I also implemented UI text instructing the player how to attack, “press spacebar”. This text shows right before they reach the first enemy and doesn't show again for the rest of the game.
+
 3.) The player is able to collect her cat after beating the boss monster. I put an area trigger next to the cat because the code was counting previous dialogue in the game as the cat’s dialogue and the cat was collected too soon. Now the player must talk to the cat before collecting it. I also added congratulating text notifying the player that the cat was found, it disappears after 5 seconds.
+
 4.) I ran into a bug with the template’s PlayerCharacter script starting players off without the full health bar. I figured out that taking out the part of that script where the health points are given the value of the player data health at the start of the game fixed this issue. The player data wasn’t refreshing when the level was, therefore the health bar was also not refreshing.
 
 Game Credits:
